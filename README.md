@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zhoutt2020@gmail.com
 - ⚡ Fun fact: Always eighteen years old.
 
-[![Miaoing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miaoing)](https://github.com/anuraghazra/github-readme-stats)
+[![Miaoing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miaoing&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
