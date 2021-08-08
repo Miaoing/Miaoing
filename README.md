@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Always eighteen years old.
 
 [![Miaoing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miaoing&show_icons=true&theme=dracula&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miaoing)](https://github.com/anuraghazra/github-readme-stats)
