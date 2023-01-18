@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
 - 📫 How to reach me: zhoutt2020@gmail.com
-- ⚡ Fun fact: Always eighteen years old.
+<!-- - ⚡ Fun fact: Always eighteen years old. -->
 
 [![Miaoing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miaoing&show_icons=true&theme=dracula&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miaoing&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
